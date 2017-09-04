@@ -10,7 +10,7 @@
 </head>
 <body>
 	<section class="main col-sm-12">
-		<section class="heading"><h1>Welcome to programming competition</h1></section>
+		<section class="heading"><h1>GBU Code Week</h1></section>
 		<section class="competition-container col-sm-9">
 			<section class="competition col-sm-4 well">
 				<div class="poster"><img src="./2.jpg" class="img-circle"></div>
@@ -171,7 +171,7 @@
 		background-image: url("https://warroom.securestate.com/wp-content/uploads/2016/10/coding.jpg");
 		background-position: center;
 		background-repeat: no-repeat;
-		background-size: auto 100vh;
+		background-size: 100% 100vh;
 		background-attachment: fixed;
 		display: none;
 		overflow: auto;
@@ -199,6 +199,7 @@
 	@media screen and (max-width: 786px) {
 		.desc{
 			padding: 0;
+			background-size: auto 100vh;
 		}
 		.main{
 			background-size: auto 100vh;
