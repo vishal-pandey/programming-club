@@ -125,7 +125,7 @@
 		width: 100%;
 		background-image: url("1.jpeg");
 		background-repeat: no-repeat;
-		background-size: auto 100vh;
+		background-size: 100% 100vh;
 		background-attachment: fixed;
 		overflow: auto;
 		position: absolute;
@@ -199,6 +199,9 @@
 	@media screen and (max-width: 786px) {
 		.desc{
 			padding: 0;
+		}
+		.main{
+			background-size: auto 100vh;
 		}
 
 	}
