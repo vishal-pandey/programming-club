@@ -125,7 +125,7 @@
 		width: 100%;
 		background-image: url("1.jpeg");
 		background-repeat: no-repeat;
-		background-size: 100% 100vh;
+		background-size: auto 100vh;
 		background-attachment: fixed;
 		overflow: auto;
 		position: absolute;
