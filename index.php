@@ -16,7 +16,7 @@
 				<div class="poster"><img src="./2.jpg" class="img-circle"></div>
 				<div class="info">
 					<h3 align="center">Code Challenge And War III</h3>
-					<center>
+					<center class="the-content">
 						<b>Venue : </b><span>SOICT</span><br />
 						<b>Date : </b><span>11/09/2017</span><br />
 						<b>Description : </b><span>Individual Competitive Coding<br /><br /><button class="btn btn-default" id="c1">Learn More</button></span><br />
@@ -27,7 +27,7 @@
 				<div class="poster"><img src="./2.jpg" class="img-circle"></div>
 				<div class="info">
 					<h3 align="center">Model And Idea Showcase</h3>
-					<center>
+					<center class="the-content">
 						<b>Venue : </b><span>SOICT</span><br />
 						<b>Date : </b><span>Submit Online by 13/09/2017</span><br />
 						<b>Description : </b><span>Technical Idea / Model Presentation<br /><br /><button class="btn btn-default" id="c2">Learn More</button></span><br />
@@ -38,7 +38,7 @@
 				<div class="poster"><img src="./2.jpg" class="img-circle"></div>
 				<div class="info">
 					<h3 align="center">Make-athon<br>&nbsp;</h3>
-					<center>
+					<center class="the-content">
 						<b>Venue : </b><span>SOICT</span><br />
 						<b>Date : </b><span>Submit Online by 13/09/2017</span><br />
 						<b>Description : </b><span>Android Development and Web Developement Product Showcase<br /><br /><button class="btn btn-default" id="c3">Learn More</button></span><br />
@@ -205,6 +205,10 @@
 			background-size: auto 100vh;
 		}
 
+	}
+
+	.the-content{
+		height: 180px;
 	}
 
 
