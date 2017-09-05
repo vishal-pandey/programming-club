@@ -124,7 +124,7 @@
 
          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeqkjQxUgN_7Cj_QhH8CaabFTnoqFNvUaR2OmGtRltg4RIfGw/viewform?c=0&w=1">Register</a><br>
 
-         <h3 align="center">RULES</h3>         
+         <h3 align="center">RULES FOR MODEL AND IDEA SHOWCASE</h3>         
 
             <br><br><b>Rule 1:</b> Team Participation. (Max 2 Members)
                           Individual participation is also welcomed.
