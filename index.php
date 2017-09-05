@@ -58,56 +58,28 @@
       
       <div class="col-sm-9 well long-desc">
          <span class="close-c"><button class="btn btn-default close" style="color: black"><span class="glyphicon glyphicon-remove-sign"></span></button></span>
-      <h1 align="center">Name Of Competition</h1>
+      <h1 align="center">Code Challance And War</h1>
       <div class="poster1"><img src="./2.jpg" class="img-rounded"></div>
          <h3 align="center">Its an Algorithm Based Coding Contest.</h3>
-         <b>12th November :</b> Junior<br>
-
-         <b>Scope :</b> For First and Second year students<br><br>
-
-
-
-         <b>12th November :</b> Senior<br>
-
-         <b>Scope :</b> For Third, Fourth and Fifth year students + Top  10 participants from Junior group<br>
-
-         <b>Time :</b> 1: PM onwards<br>
 
          <b>Type :</b> Individual<br>
+         <b>Eligibility criteria - </b>
+         Anyone with a knack for programming.
 
-         <b>Registration link :</b>
+
+         <br><br><b>Registration link :</b>
 
          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeqkjQxUgN_7Cj_QhH8CaabFTnoqFNvUaR2OmGtRltg4RIfGw/viewform?c=0&w=1">Register</a><br>
 
          <h3 align="center">RULES FOR ALGORITHM BASED CODING CONTEST</h3>
-
-         <b>Rule 1 :</b> Individual participation only<br><br>
-
-         <b>Rule 2 :</b> The participants will be divided into two groups<br><br>
-
-            <b>GROUP A :</b> 1st and 2nd year students - will be held on 12th Nov<br><br>
-
-            <b>GROUP B :</b> 3rd, 4th, 5th year students - will be held on 12th Nov<br><br>
-
-         <b>Rule 3 :</b> The participants can use any programming language<br><br>
-
-         <b>Rule 4 :</b> There will be five questions for each group<br><br>
-
-         <b>Rule 5 :</b> The participant may bring their own laptop, If they don’t have the laptop, a system will be provided to them<br><br>
-
-         <b>Rule 6 :</b> Internet connectivity is required to conduct the competition<br><br>
-
-         <b>Rule 7 :</b> The prizes will be given to the top three winners of each group<br><br>
-
-         <b>Rule 8 :</b> The competition will be similar to the programming challenges which are regularly organized on Codechef, HackerEarth, etc<br><br>
-
-         <b>Rule 9 :</b> GP will be given to all participants<br><br>
-
-         <b>Rule 10 :</b> Top10 participants of group A can take part in group B competition<br><br>
-
-
-
-         <b>Venue :</b> SoICT (IP-102)<br><br>
+         <b>Rule 1 :</b> Individual participation only.
+         <br><br><b>Rule 2 :</b> The participants can use any programming language.
+         <br><br><b>Rule 3 :</b> There will be six questions .
+         <br><br><b>Rule 4 :</b> The participant may bring their own laptop. If they don’t have the laptop, a system will be provided to them.
+         <br><br><b>Rule 5 :</b> Internet connectivity is required to conduct the competition.
+         <br><br><b>Rule 6 :</b> Attractive prizes will be provided to the winners.
+         <br><br><b>Rule 7 :</b> The competition will be similar to the programming challenges which are regularly organized on Codechef, HackerEarth, etc.
+         <br><br><b>Rule 8 :</b> GP and participation certificate will be given to all participants.
 
          
       </div>
