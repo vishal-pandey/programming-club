@@ -18,7 +18,8 @@
                <h3 align="center">Code Challenge And War III</h3>
                <center class="the-content">
                   <b>Venue : </b><span>SOICT</span><br />
-                  <b>Date : </b><span>11/09/2017</span><br />
+                  <b>Date : </b><span>11.09.2017</span><br />
+                  <b>Time : </b><span>2PM Onwards</span><br />
                   <b>Description : </b><span>Individual Competitive Coding<br /><br /><button class="btn btn-default" id="c1">Learn More</button></span><br />
                </center>
             </div>
@@ -29,7 +30,8 @@
                <h3 align="center">Model And Idea Showcase</h3>
                <center class="the-content">
                   <b>Venue : </b><span>SOICT</span><br />
-                  <b>Date : </b><span>Submit Online by 13/09/2017</span><br />
+                  <b>Date : </b><span>15.09.2017</span><br />
+                  <b>Time : </b><span>9:30 PM Onwards</span><br />
                   <b>Description : </b><span>Technical Idea / Model Presentation<br /><br /><button class="btn btn-default" id="c2">Learn More</button></span><br />
                </center>
             </div>
@@ -40,7 +42,8 @@
                <h3 align="center">Make-athon<br>&nbsp;</h3>
                <center class="the-content">
                   <b>Venue : </b><span>SOICT</span><br />
-                  <b>Date : </b><span>Submit Online by 13/09/2017</span><br />
+                  <b>Date : </b><span>Submit Online by 13.09.2017</span><br />
+                  <b>Presentation On : </b><span>15.09.2017</span><br />
                   <b>Description : </b><span>Android Development and Web Developement Product Showcase<br /><br /><button class="btn btn-default" id="c3">Learn More</button></span><br />
                </center>
             </div>
@@ -99,13 +102,15 @@
          <h3 align="center">RULES FOR MODEL AND IDEA SHOWCASE</h3>         
 
             <br><br><b>Rule 1:</b> Team Participation. (Max 2 Members)
-                          Individual participation is also welcomed.
+              Individual participation is also welcomed.
 
-            <br><br><b>Rule 2:</b> Participants will have to present their Idea/Model as neat and beautiful poster on an A3 (preferably) or A4 sheet.
+            <br><br><b>Rule 2:</b>Participants will have to present their Idea/Model as neat and beautiful poster.
 
             <br><br><b>Rule 3:</b> Participants may not have technical knowledge to implement the Idea/Model
 
-            <br><br><b>Rule 4:</b> All the teams will have to present their Idea/Model to the jury on 15Th September,17 .
+
+            <br><br><b>Rule 4:</b>  All the teams will have to present their Idea/Model to the jury on 15Th September,17 .
+
 
             <br><br><b>Rule 5:</b> Changes made after the presentation will not be considered.
 
@@ -121,6 +126,7 @@
 
             <br><br><b>Rule 7:</b> Moulded existing Idea/Model are allowed but Participant should announce the Credits to the Programming club member before presentation day.
 
+
             <br><br><b>Rule 8:</b> Top three teams will be rewarded.
 
             <br><br><b>Rule 9:</b> GP will be given to all participants. 
@@ -129,15 +135,17 @@
 
             <br><br><b>Rule 11:</b> Participants should not share their idea with any other person except when asked by a Programming club member on the submission date.
 
+
             <br><br><b>Rule 12:</b> All decisions by judges with respect to any aspect of the competition are final and binding on students. They are not subject to review. 
 
-            <br><br><b>Rule 13:</b> The judges reserve the right to make clarifications with regards to the competition rules as deemed necessary. 
+            <br><br><b>Rule 13:</b>  The judges reserve the right to make clarifications with regards to the competition rules as deemed necessary. 
+ 
              
             <br><br><b>Rule 14:</b> The competition is divided into two groups: 
-                            Group I : 1st year and 2nd year students 
-                            Group II : 3rd , 4th and 5th year students 
-              And prizes will be given to the team who secured 1st rank in their respective groups.
-            Certificates will be given to the 2nd and 3rd position Holders in both the group.
+                Group I : 1st year and 2nd year students 
+                Group II : 3rd , 4th and 5th year students 
+  And prizes will be given to the team who secured 1st rank in their respective groups.
+Certificates will be given to the 2nd and 3rd position Holders in both the group.
          
       </div>
    </section>
@@ -159,9 +167,9 @@
 
          <br><br><b>Rule 2 :</b> Applications must be Open Source and code should be posted on GitHub.
 
-         <br><br><b>Rule 3 :</b> The code repository link should be given to us by "date here".
+         <br><br><b>Rule 3 :</b> The code repository link should be given to us by "13.9.17".
 
-         <br><br><b>Rule 4 :</b> All the teams will have to present their applications to the jury  on "date here".
+         <br><br><b>Rule 4 :</b> All the teams will have to present their applications to the jury  on "15.9.17".
 
          <br><br><b>Rule 5 :</b> Changes made after the presentation will not be considered.
 
@@ -175,7 +183,7 @@
 
                                  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>IV.</b> Code quality – 25Marks 
 
-         <br><br><b>Rule 7 :</b> Use of 3rdparty libraries is permitted.
+         <br><br><b>Rule 7 :</b> Use of 3rd party libraries is permitted.
 
          <br><br><b>Rule 8 :</b> Top three teams will be rewarded.
 
