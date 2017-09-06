@@ -32,6 +32,8 @@
                   <b>Venue : </b><span>SOICT</span><br />
                   <b>Date : </b><span>15.09.2017</span><br />
                   <b>Time : </b><span>9:30 PM Onwards</span><br />
+                  <b>Theme : </b><span>Any technology which is still relevant in 2017 eg. TCP/IP Model.</span><br />
+
                   <b>Description : </b><span>Technical Idea / Model Presentation<br /><br /><button class="btn btn-default" id="c2">Learn More</button></span><br />
                </center>
             </div>
@@ -44,6 +46,7 @@
                   <b>Venue : </b><span>SOICT</span><br />
                   <b>Date : </b><span>Submit Online by 13.09.2017</span><br />
                   <b>Presentation On : </b><span>15.09.2017</span><br />
+                  <b>Theme : </b><span>Any application/website/webapp which is relevant to Gautam Buddha University eg. Library Management System</span><br />
                   <b>Description : </b><span>Android Development and Web Developement Product Showcase<br /><br /><button class="btn btn-default" id="c3">Learn More</button></span><br />
                </center>
             </div>
@@ -305,7 +308,7 @@ Certificates will be given to the 2nd and 3rd position Holders in both the group
    }
 
    .the-content{
-      height: 180px;
+      height: 280px;
    }
 
 
