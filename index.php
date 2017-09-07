@@ -164,7 +164,7 @@ Certificates will be given to the 2nd and 3rd position Holders in both the group
 
          <a href="https://docs.google.com/forms/d/e/1FAIpQLSeqkjQxUgN_7Cj_QhH8CaabFTnoqFNvUaR2OmGtRltg4RIfGw/viewform?c=0&w=1">Register</a><br>
 
-         <b>Email the github link of your application on <a href="mailto:asayush67@gmail.com" target="_top">asayush67@gmail.com</a>.</b>
+         <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSc6TaFnp9BfkBPP6UjG2LJcPIwIMfSNpBOc5gJJm-1V4zAK_w/viewform">Make-athon final submission can be done here</a></b>
 
          <h3 align="center">RULES FOR WEB AND ANDROID APPLICATION  DEVELOPMENT CONTEST</h3>         
          <br><br><b>Rule 1 :</b> Team Participation. (Max 2 Members)
