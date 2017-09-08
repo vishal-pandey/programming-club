@@ -17,7 +17,7 @@
             <div class="info">
                <h3 align="center">Code Challenge And War III</h3>
                <center class="the-content">
-                  <b>Venue : </b><span>SOICT</span><br />
+                  <b>Venue : </b><span>IP113 , SOICT</span><br />
                   <b>Date : </b><span>11.09.2017</span><br />
                   <b>Time : </b><span>2PM Onwards</span><br />
                   <b>Description : </b><span>Individual Competitive Coding<br /><br /><button class="btn btn-default" id="c1">Learn More</button></span><br />
